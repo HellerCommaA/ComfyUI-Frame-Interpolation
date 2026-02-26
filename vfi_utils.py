@@ -12,7 +12,7 @@ from comfy.model_management import soft_empty_cache, get_torch_device
 import numpy as np
 
 BASE_MODEL_DOWNLOAD_URLS = [
-    "https://github.com/HellerCommaA/ComfyUI-Frame-Interpolation/releases/download/models/",
+    "https://github.com/HellerCommaA/ComfyUI-Frame-Interpolation/releases/download/download/",
     "https://github.com/saibaraburabo-blip/ComfyUI-Frame-Interpolation/releases/download/models/",
     "https://github.com/styler00dollar/VSGAN-tensorrt-docker/releases/download/models/",
     "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation/releases/download/models/",
